@@ -18,6 +18,10 @@ Python 3.x
 Libraries:
 
 ## pandas
+pip install pandas
 ## numpy
+pip install numpy
 ## scikit-learn
+pip install scikit_learn
 ## matplotlib
+pip install matplotlib
