@@ -16,7 +16,8 @@ Model Evaluation: Evaluating model performance using cross-validation and calcul
 Prerequisites
 Python 3.x
 Libraries:
-pandas
-numpy
-scikit-learn
-matplotlib
+
+## pandas
+## numpy
+## scikit-learn
+## matplotlib
